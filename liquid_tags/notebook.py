@@ -166,7 +166,7 @@ jQuery(document).ready(function($) {
     console.log($(this).children());
     $codearea.slideToggle(500, function () {
         $header.text(function () {
-            return $codearea.is(":visible") ? "(-‿-)" : "(o‿o)";
+            return $codearea.is(":visible") ? "(-_-)" : "(0_0)";
         });
     });
 });
