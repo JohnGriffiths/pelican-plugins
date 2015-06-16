@@ -128,10 +128,11 @@ img.anim_icon{padding:0; border:0; vertical-align:middle; -webkit-box-shadow:non
 
 div.collapseheader {
     width=100%;
-    background-color:#d3d3d3;
+    background-color: transparent;
     padding: 2px;
     cursor: pointer;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: .7em
 }
 </style>
 
